@@ -1,4 +1,4 @@
-##hosted link not working properly (problem with render.com) please render in your local machine ##
+## hosted link not working properly (problem with render.com) please render in your local machine ##
 This project is a habit tracker used to track the habits of of the User on daily and weekly basis.
 
 **Installation**
